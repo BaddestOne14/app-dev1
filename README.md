@@ -1,2 +1,4 @@
-# app-dev1
-My first repository
+# My Favorite Drinks
+1. Coke
+2. Sprite
+3. Royal
